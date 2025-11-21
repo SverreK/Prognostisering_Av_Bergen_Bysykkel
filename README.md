@@ -24,3 +24,6 @@ Prosjektet består av tre program: main, train og predict.
 - **predict:** Bruker den utvalte modellen til å predikere ledige syklar ved gitte stasjoner ein time fram i tid
 - **main** Køyrer begge program, først train, så predict
 
+<img width="571" height="579" alt="image" src="https://github.com/user-attachments/assets/3dfd302b-7ad1-46c8-9ae0-216e101ad929" />
+
+<img width="709" height="256" alt="image" src="https://github.com/user-attachments/assets/2dd945db-cb2c-4286-90c6-b40a067db32f" />
